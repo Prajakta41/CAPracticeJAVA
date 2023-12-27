@@ -7,6 +7,8 @@ public class LaunchBrowser2 {
     ChromeDriver driver = new ChromeDriver();// to launch the browser
 		
 		driver.get("https://www.google.com");// go to google.com
+		
+		
 
 	}
 
