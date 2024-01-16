@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/selenium-api-4.16.1.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/selenium-api-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/selenium-chrome-driver-4.16.1.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/selenium-chrome-driver-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/selenium-chromium-driver-4.16.1.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/selenium-chromium-driver-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/selenium-devtools-v85-4.16.1.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/selenium-devtools-v85-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/selenium-devtools-v118-4.16.1.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/selenium-devtools-v118-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/selenium-devtools-v119-4.16.1.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/selenium-devtools-v119-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/selenium-devtools-v120-4.16.1.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/selenium-devtools-v120-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/selenium-edge-driver-4.16.1.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/selenium-edge-driver-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/selenium-firefox-driver-4.16.1.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/selenium-firefox-driver-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/selenium-http-4.16.1.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/selenium-http-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/selenium-ie-driver-4.16.1.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/selenium-ie-driver-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/selenium-java-4.16.1.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/selenium-java-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/selenium-json-4.16.1.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/selenium-json-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/selenium-manager-4.16.1.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/selenium-manager-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/selenium-os-4.16.1.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/selenium-os-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/selenium-remote-driver-4.16.1.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/selenium-remote-driver-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/selenium-safari-driver-4.16.1.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/selenium-safari-driver-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/selenium-support-4.16.1.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/selenium-support-4.16.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/lib/auto-service-annotations-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/lib/byte-buddy-1.14.5.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/lib/checker-qual-3.33.0.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/lib/error_prone_annotations-2.18.0.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/lib/failsafe-3.3.2.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/lib/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/lib/guava-32.1.2-jre.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/lib/j2objc-annotations-2.8.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/lib/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/lib/opentelemetry-api-1.28.0.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/lib/opentelemetry-api-events-1.28.0-alpha.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/lib/opentelemetry-context-1.28.0.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/lib/opentelemetry-exporter-logging-1.28.0.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/lib/opentelemetry-extension-incubator-1.28.0-alpha.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/lib/opentelemetry-sdk-1.28.0.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/lib/opentelemetry-sdk-common-1.28.0.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/lib/opentelemetry-sdk-extension-autoconfigure-1.28.0.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/lib/opentelemetry-sdk-extension-autoconfigure-spi-1.28.0.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/lib/opentelemetry-sdk-logs-1.28.0.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/lib/opentelemetry-sdk-metrics-1.28.0.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/lib/opentelemetry-sdk-trace-1.28.0.jar"/>
+	<classpathentry kind="lib" path="E:/Gaurav Sir Automation class lec/Ca PracticeSelenium/lib/opentelemetry-semconv-1.28.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/.m2/repository/org/seleniumhq/selenium/selenium-api/4.9.1/selenium-api-4.9.1.jar" sourcepath="C:/Users/HP/.m2/repository/org/seleniumhq/selenium/selenium-api/4.9.1/selenium-api-4.9.1-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.seleniumhq.selenium"/>
+			<attribute name="maven.artifactId" value="selenium-api"/>
+			<attribute name="maven.version" value="4.9.1"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
